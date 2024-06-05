@@ -25,10 +25,10 @@ const estilos = StyleSheet.create({
         width: width /4,
         height: width/4,
         padding: 20,
-        backgroundColor: "#f0f0f0",
+        backgroundColor: "#96eaf2",
         textAlign: "center",
         borderWidth: 1,
-        borderColor: "#C71585"
+        borderColor: "#64e1ed"
 
     },
      botaoDuplo: {
@@ -38,6 +38,6 @@ const estilos = StyleSheet.create({
         width: width /4 *3
       },
     botaoDir: {
-        backgroundColor: "#DA70D6",
+        backgroundColor: "#07def2",
     }
 })
